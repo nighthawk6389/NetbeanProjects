@@ -1,0 +1,8 @@
+int var1 = 5%7+3;
+while(x==5%4){
+if(x<=y==10)
+-72;
+}
+else{
+char c='t';
+}

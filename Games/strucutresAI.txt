@@ -1,0 +1,14 @@
+
+//Map m={1-69,{a1-g6}}
+
+List <Problems> problems=(Problems=> int square1,swaure2,square3,square4)
+
+List<Solutions> solutions= (Solutions=>Type, square[])
+
+List <solutions> applicable;
+
+if(problems.next.containts(solutions.next.square)
+	applicable=solution[x];
+
+build using combination rules and squares used from applicable:
+int [applicable][applicable] adjacency= ifConflict?1:0
